@@ -1,0 +1,7 @@
+Ingredient,Quantity,Unit,Expiry Date,Days Left,Status
+Tomatoes,2.0,kg,2026-11-26,1,Use soon
+Paneer,1.0,kg,2026-11-25,0,Use today
+Rice,5.0,kg,2026-12-10,15,OK
+Potatoes,3.0,kg,2026-12-02,7,OK
+Milk,2.0,litres,2026-11-24,-1,Expired
+Spinach,1.5,kg,2026-11-27,2,Use soon

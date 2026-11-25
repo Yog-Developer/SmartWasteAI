@@ -1,0 +1,4 @@
+timestamp,feature,response_time_seconds,success
+2026-11-25T03:54:55.824590,recipes,19.5,True
+2026-11-25T03:57:09.128181,waste,13.07,True
+2026-11-25T03:57:46.786450,report,15.96,True
